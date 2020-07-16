@@ -59,7 +59,7 @@ Note: Additional documentation, if needed, can be found in [Codecov's official d
 
 ### On Sourcegraph.com
 
-1.  Visit [tuf_store.go in theupdateframework/notary](https://sourcegraph.com/github.com/theupdateframework/notary@fb795b0bc868746ed2efa2cd7109346bc7ddf0a4/-/blob/server/storage/tuf_store.go) on Sourcegraph.com (or any other file that has Codecov code coverage)
+1.  Visit [cmd/frontend/db/authz.go in sourcegraph/sourcegraph](https://sourcegraph.com/github.com/sourcegraph/sourcegraph@7889886f2cd906deccc14f88f5afa18fb3c28b39/-/blob/cmd/frontend/db/authz.go#L12:68) on Sourcegraph.com (or any other file that has Codecov code coverage)
 2.  Click the `Coverage: N%` button to toggle Codecov test coverage background colors on the file (sign-in required)
 
 > The Codecov extension is enabled by default on Sourcegraph.com, so you don't need to add it from its [extension registry listing](https://sourcegraph.com/extensions/sourcegraph/codecov).
